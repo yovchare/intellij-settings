@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MAVEN_REPOSITORY" value="/Users/gor-mac/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/gor-mac/Library/Application Support/IdeaIC2017.2/Kotlin/kotlinc" />
+  </component>
+</application>
